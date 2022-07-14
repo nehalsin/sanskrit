@@ -1,5 +1,5 @@
 
-# Table of Contents
+
 
 1.  [Free, Libre and Open Sanskrit Consciousness for Individual, Local and Global Welfare](#org6e51b70)
     1.  [Focus](#org1824da1)
