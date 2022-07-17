@@ -490,19 +490,6 @@
 10. Referred by: Name, ID, Mobile
 
 
-<a id="orgc6916c8"></a>
-
-### ISPs
-
-1.  Mr Sanjay Kumar Agarwal, FSI, Dehradun
-2.  Ms Nirmala Thakur, Melbourne, Australia
-3.  BPK: Collect and make local innovations knowledge base.
-4.  Mr Paramanand Sharma, Himachal Pradesh
-5.  Mrs Brahmi, Pune
-6.  Mr Arpit Singh
-7.  Mrs Munmun Kundu, Kolkata
-8.  Mr Vignesh Pathak, Surat
-
 
 <a id="org310f5af"></a>
 
